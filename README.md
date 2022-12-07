@@ -44,7 +44,7 @@ This Repo contains Data Analysis projects using python.
     - <img width="523" alt="image" src="https://user-images.githubusercontent.com/41443395/206178153-af30bdbb-b776-4960-b467-0fb95ece875b.png">
 <hr>
 
- - Employee attrition rate dataset ([<img src="https://img.icons8.com/fluency/48/000000/code.png"/>](https://jovian.ai/raghu-rayirath/employee-attrition-rate-eda-visualization-model-creation-evaluation-v1)):
+ - Indian metro cities flat rental dataset ([<img src="https://img.icons8.com/fluency/48/000000/code.png"/>](https://jovian.ai/raghu-rayirath/indian-metro-cities-flat-rental-dataset)):
     - This dataset contains employee details with 35 different features. This data set was created by IBM data scientists.
     - This dataset contains rental flat details across metropolises in India with 12 different features.
     - The features such as area type, locality, furnishing status, tenant preference, floor, rent, and so on.
