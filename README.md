@@ -19,7 +19,11 @@ This Repo contains Data Analysis projects using python.
     - Build interactive visuals using Plotly, used Seaborn and Matplotlib to create visualizations (BarPlot, PieChart, Countplot, Scatter Plot, RegPlot, and so on).
     - I performed analyses such as "best sellers," "fiction sellers vs. non-fiction sellers," "best authors,", "yearwise best sellers," etc..
     - I derived unique insights from the dataset and visualized them clearly.
+    - Genre based best sellers over the yers:
     - <img width="509" alt="image" src="https://user-images.githubusercontent.com/41443395/206168921-1126cc92-e000-45bf-9ac3-07a4116bc658.png">
+    - Avg Price of books over the years:
+    - <img width="505" alt="image" src="https://user-images.githubusercontent.com/41443395/206169381-41add568-f05e-4d31-8955-56a20bece8cf.png">
+
 
 
 
