@@ -71,7 +71,8 @@ This Repo contains Data Analysis projects using python.
     - Experience v/s salary in USD:
     - <img width="666" alt="image" src="https://user-images.githubusercontent.com/41443395/206188132-3e7f0466-8421-4178-80ff-97a2f6fbbe64.png">
     - Salary Distribution v/s Experience level:
-    - <img width="522" alt="image" src="https://user-images.githubusercontent.com/41443395/206188390-0b78d24c-3a99-428a-ab7d-f845582f5f2d.png">
+    - <img width="666" alt="image" src="https://user-images.githubusercontent.com/41443395/206188864-dd50106e-aa99-4c36-87be-91dc7aafbd9c.png">
+
 
 
     
