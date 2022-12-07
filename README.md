@@ -59,6 +59,41 @@ This Repo contains Data Analysis projects using python.
 
 <hr>
 
+ - Stack overflow developer survey dataset ([<img src="https://img.icons8.com/fluency/48/000000/code.png"/>](https://jovian.ai/raghu-rayirath/stack-overflow-developer-survey-dataset-eda-plotly-matplotlib-visualizations)):
+    - This dataset contains nearly 65,000 responses were fielded from over 180 countries and dependent territories.
+    - The annual developer survey examines all aspects of the developer experience, from career satisfaction and job search to education and opinions on open-source software.
+    - The features such as Work_year, experience_level, employment_type, job_title, salary_in_usd, remote_ratio, and so on.
+    - I use Python frameworks such as Pandas and Numpy to perform data exploration and understand the dataset in depth.
+    - used Python visualization libraries to understand the dataset visually, such as the distribution of the dataset and its features.
+    - Build interactive visuals using Plotly; use Seaborn and Matplotlib to create visualizations (BarPlot, PieChart, Countplot, Scatter Plot, and so on).
+    - I performed detailed analysis and derived the valuable insights from the dataset such as most demanding job titles, Highest avg pay, which job titles earns more avg anual salary, etc..
+    - Please find below some visualisations
+    - Experience v/s salary in USD:
+    - <img width="666" alt="image" src="https://user-images.githubusercontent.com/41443395/206188132-3e7f0466-8421-4178-80ff-97a2f6fbbe64.png">
+    - Salary Distribution v/s Experience level:
+    - <img width="522" alt="image" src="https://user-images.githubusercontent.com/41443395/206188390-0b78d24c-3a99-428a-ab7d-f845582f5f2d.png">
+
+
+    
+    
+    
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
