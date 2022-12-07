@@ -10,8 +10,8 @@ This Repo contains Data Analysis projects using python.
     - I used Plotly to build interactive visualizations.
     - Eg: Avg rating of ice cream shops:
     - <img width="683" alt="image" src="https://user-images.githubusercontent.com/41443395/206170315-7db8b500-e328-4d76-9fae-4a5a0263cab6.png">
-    - Eg: From which Locality maximum hotels are listed in Zomata
-    - <img width="665" alt="image" src="https://user-images.githubusercontent.com/41443395/206170488-c50a0cca-1e6e-45f7-867d-ccbf3e6bea9a.png">
+    - Eg: List of counteries the survey is spread accross:
+    - <img width="641" alt="image" src="https://user-images.githubusercontent.com/41443395/206171628-29b86452-ebcb-45d2-87e9-a4831e61d149.png">
 
 
 
