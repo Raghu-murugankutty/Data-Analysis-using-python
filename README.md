@@ -8,8 +8,13 @@ This Repo contains Data Analysis projects using python.
     - Performed data analysis using Python(pandas, numpy) and building visualizations using Matplotlib, Seaborn and Plotly
     - Identified best ‘Breakfast’, ‘Fast Food’ and ‘Ice Cream’ parlours in various localities.
     - I used Plotly to build interactive visualizations.
- 
- 
+    - Eg: Avg rating of ice cream shops:
+    - <img width="683" alt="image" src="https://user-images.githubusercontent.com/41443395/206170315-7db8b500-e328-4d76-9fae-4a5a0263cab6.png">
+    - Eg: From which Locality maximum hotels are listed in Zomata
+    - <img width="665" alt="image" src="https://user-images.githubusercontent.com/41443395/206170488-c50a0cca-1e6e-45f7-867d-ccbf3e6bea9a.png">
+
+
+
  
  - Amazon's Top 50 bestselling books from 2009 to 2019 ([<img src="https://img.icons8.com/fluency/48/000000/code.png"/>](https://jovian.ai/raghu-rayirath/amazon-bestselling-books-eda-plotly-visualizations-v1)):
     - Amazon book sales data from 2009 to 2019 was examined. The dataset contains seven features. 
