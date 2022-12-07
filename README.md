@@ -31,6 +31,20 @@ This Repo contains Data Analysis projects using python.
 
 <hr>
 
+ - Amazon's Top 50 bestselling books from 2009 to 2019 ([<img src="https://img.icons8.com/fluency/48/000000/code.png"/>](https://jovian.ai/raghu-rayirath/amazon-bestselling-books-eda-plotly-visualizations-v1)):
+    - This dataset contains employee details with 35 different features. This data set was created by IBM data scientists.
+    - Some of the features from the datasets are attrition, business travel, environmental satisfaction, job involvement, percentage salary increase, and other features.
+    - I used Python frameworks such as Pandas and Numpy to perform data exploration and understand the dataset in depth.
+    - used Python visualization libraries to understand the dataset visually, such as the distribution of the dataset and its features.
+    - Build interactive visuals using Plotly. I used Seaborn and Matplotlib to create visualizations (BarPlot, PieChart, Countplot, Scatter Plot, RegPlot, and so on).
+    - I performed detailed analysis and derived valuable insights from the dataset, such as What types of employees resign on a regular basis? What type of employee stays on the job the longest versus attrition?etc..
+    - Eg: Correlation of features:
+    - <img width="636" alt="image" src="https://user-images.githubusercontent.com/41443395/206177912-affdeeb5-51b8-4127-89f2-7c0ad3591a03.png">
+    - Eg: Attrition rate v/s Salary hike
+    - <img width="523" alt="image" src="https://user-images.githubusercontent.com/41443395/206178153-af30bdbb-b776-4960-b467-0fb95ece875b.png">
+
+<hr>
+
 
 
 
