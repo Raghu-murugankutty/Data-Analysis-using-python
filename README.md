@@ -44,6 +44,24 @@ This Repo contains Data Analysis projects using python.
     - <img width="523" alt="image" src="https://user-images.githubusercontent.com/41443395/206178153-af30bdbb-b776-4960-b467-0fb95ece875b.png">
 <hr>
 
+ - Employee attrition rate dataset ([<img src="https://img.icons8.com/fluency/48/000000/code.png"/>](https://jovian.ai/raghu-rayirath/employee-attrition-rate-eda-visualization-model-creation-evaluation-v1)):
+    - This dataset contains employee details with 35 different features. This data set was created by IBM data scientists.
+    - This dataset contains rental flat details across metropolises in India with 12 different features.
+    - The features such as area type, locality, furnishing status, tenant preference, floor, rent, and so on.
+    - I use Python frameworks such as Pandas and Numpy to perform data exploration and understand the dataset in depth.
+    - used Python visualization libraries to understand the dataset visually, such as the distribution of the dataset and its features.
+    - Build interactive visuals using Plotly; use Seaborn and Matplotlib to create visualizations (BarPlot, PieChart, Countplot, Scatter Plot, and so on).
+    - I performed detailed analysis and derived valuable insights from the dataset, such as Which city listed the most rental homes? What types of tenants are preferred? What types of homes are listed? and so on.
+    - Please find below some sample visualizations, Eg: House rent v/s house size
+    - <img width="677" alt="image" src="https://user-images.githubusercontent.com/41443395/206181737-7ba049ef-ea84-4e87-a9b3-954952aaa7ed.png">
+    - Eg: Types of furnishing status
+    - <img width="664" alt="image" src="https://user-images.githubusercontent.com/41443395/206181893-73e35dcf-bb52-4227-b53f-5abf80b8e1dd.png">
+
+<hr>
+
+
+
+
 
 
 
